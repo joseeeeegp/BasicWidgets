@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BasicWidgets</string>
+    <string name="_1_assinging_labels">1 Assinging labels</string>
+    <string name="_2_button_who_s_got_the_button">2 Button, Who’s Got the Button?</string>
+    <string name="_3_fleeting_images">3 Fleeting Images</string>
+    <string name="_5_fields_of_green_or_other_colors">5 Fields of Green...or Other Colors</string>
+    <string name="_6_just_another_box_to_check">6 Just Another Box to Check</string>
+    <string name="_7_turn_the_radio_up">7 Turn the Radio Up</string>
+    <string name="_8_changing_the_appearance_of_the_widgets">8 changing the appearance of the widgets</string>
+    <string name="_4">4</string>
+    <string name="hola_soy_un_texto">Hola, soy un texto</string>
+    <string name="hola_soy_un_texto_hola_soy_un_texto_hola_soy_un_texto_hola_soy_un_texto">hola_soy_un_texto_hola_soy_un_texto_hola_soy_un_texto_hola_soy_un_texto</string>
+    <string name="fecha">fecha</string>
+    <string name="imagenboton">imagenBoton</string>
+    <string name="imagen">imagen</string>
+    <string name="imagennormal">imagennormal</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="color_del_radio_button">Color del Radio button</string>
+    <string name="check">this check bbox</string>
+    <string name="reset">reset</string>
+    <string name="hello">hello!!</string>
+    <string name="textoe">textoE</string>
+    <string name="textof">textoF</string>
+    <string name="reinicio">reiniciar</string>
+    <string name="sonido">sonido</string>
+    <string name="radio_goups">Radio Goups</string>
+    <string name="buttons">Buttons</string>
+    <string name="url_demo">URL Demo</string>
+    <string name="overlap_buttons">Overlap Buttons</string>
+    <string name="scrollview">ScrollView</string>
+
+</resources>
